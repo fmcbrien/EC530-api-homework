@@ -1,5 +1,6 @@
 {
     "device_id": "string",
+    "name": "string",
     "type": "string",
     "data": {
         "temperature": "float",

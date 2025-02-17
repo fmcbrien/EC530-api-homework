@@ -6,4 +6,4 @@ The Home Environment System will manage houses, rooms, floors, and devices. The 
 
 # Data Formatting
 
-Data for all entities will be stored in a JSON format as discussed in class. See the data structures for this API in `smart-home-data.json`
+Data for all entities will be stored in a JSON format as discussed in class. See the data structures for this API in `json-formats` folder.

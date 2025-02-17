@@ -5,5 +5,6 @@
         "key": "value"
     },
     "floors": ["floor_id1", "floor_id2"],
-    "rooms": ["room_id1", "room_id2"]
+    "rooms": ["room_id1", "room_id2"],
+    "hallways": ["hallway_id1", "hallway_id2"]
 }
