@@ -1,0 +1,8 @@
+{
+    "floor_id": "string",
+    "name": "string",
+    "metadata": {
+        "key": "value"
+    },
+    "rooms": ["room_id1", "room_id2"]
+}

@@ -1,0 +1,10 @@
+{
+    "device_id": "string",
+    "type": "string",
+    "data": {
+        "temperature": "float",
+        "humidity": "float",
+        "carbon_monoxide": "float"
+    },
+    "assigned_to": "room/hallway_id1"
+}
