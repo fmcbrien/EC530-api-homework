@@ -1,8 +1,0 @@
-{
-    "user_id": "string",
-    "username": "string",
-    "status": "online/offline",
-    "metadata": {
-        "key": "value"
-    }
-}

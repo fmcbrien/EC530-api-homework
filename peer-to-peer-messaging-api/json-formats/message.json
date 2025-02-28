@@ -1,7 +1,0 @@
-{
-    "message_id": "string",
-    "sender_id": "string",
-    "receiver_ids": ["user_idB, user_idC"],
-    "content": "string",
-    "timestamp": "ISO8601 date"
-}
