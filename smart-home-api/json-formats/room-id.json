@@ -1,8 +1,0 @@
-{
-    "room_id": "string",
-    "name": "string",
-    "metadata": {
-        "key": "value"
-    },
-    "devices": ["device_id1", "device_id2"]
-}
